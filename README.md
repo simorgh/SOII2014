@@ -1,7 +1,7 @@
 S0 II - 2014-2015 - Master branch
 =======================================
 
-##Operating Systems course from Computer Science Bachelor's degree at University of Barcelona (UB)
+##Operating Systems (2) course from Computer Science Bachelor's degree at University of Barcelona (UB)
 
 ###Contributors:
 * Igor Dzinka (idzinkdz7@alumnes.ub.edu)
