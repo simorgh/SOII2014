@@ -7,6 +7,8 @@ S0 II - 2014-2015 - Master branch
 * Igor Dzinka (idzinkdz7@alumnes.ub.edu)
 * Vicent Roig (vroigrip8@alumnes.ub.edu)
 
+--------------------------------------------
+
 ###### Description
 
 The overall objective of the project is to develop a _(non-GUI)_ application which allows extracting and indexing the words
