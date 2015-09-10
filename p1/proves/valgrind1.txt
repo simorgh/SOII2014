@@ -1,0 +1,14 @@
+==8401== Memcheck, a memory error detector
+==8401== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==8401== Using Valgrind-3.10.0.SVN and LibVEX; rerun with -h for copyright info
+==8401== Command: ./practica1 fitxer1.txt
+==8401== 
+==8401== 
+==8401== HEAP SUMMARY:
+==8401==     in use at exit: 0 bytes in 0 blocks
+==8401==   total heap usage: 22 allocs, 22 frees, 1,668 bytes allocated
+==8401== 
+==8401== All heap blocks were freed -- no leaks are possible
+==8401== 
+==8401== For counts of detected and suppressed errors, rerun with: -v
+==8401== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
